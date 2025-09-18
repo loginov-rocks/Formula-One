@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "dev": "PORT=3001 tsx watch --env-file=.env src/app",
+    "lint": "eslint",
+    "start": "tsx src/app",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mqtt": "^5.14.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.35.0",
+    "@types/node": "^24.3.1",
+    "eslint": "^9.35.0",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.43.0"
+  }
+}

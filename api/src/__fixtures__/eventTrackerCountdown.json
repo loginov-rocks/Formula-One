@@ -1,0 +1,130 @@
+{
+  "raceHubId": "p4yOx6mP6Zn3WWqZ3Dpg9",
+  "locale": "en",
+  "createdAt": "2025-01-02T09:21:38.531Z",
+  "updatedAt": "2025-09-17T10:20:05.641Z",
+  "fomRaceId": "1269",
+  "brandColourHexadecimal": "ee0000",
+  "circuitSmallImage": {
+    "title": "Azerbaijan.png",
+    "path": "/content/dam/fom-website/2018-redesign-assets/Track icons 4x3/Azerbaijan.png",
+    "url": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677245035/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Azerbaijan.png",
+    "public_id": "content/dam/fom-website/2018-redesign-assets/Track icons 4x3/Azerbaijan",
+    "raw_transformation": "f_auto/q_auto",
+    "width": 800,
+    "height": 600
+  },
+  "links": [],
+  "seasonContext": {
+    "id": "4kUSabodBuSKy8I2ce68iW",
+    "contentType": "f1SeasonContext",
+    "createdAt": "2018-05-24T08:30:54.749Z",
+    "updatedAt": "2025-09-18T07:00:10.020Z",
+    "locale": "en",
+    "seasonYear": "2025",
+    "currentOrNextMeetingKey": "1269",
+    "state": "COUNTDOWN-TO-P1",
+    "eventState": "IDLE",
+    "liveEventId": "1253",
+    "liveTimingsSource": "https://livetiming.formula1.com/signalr",
+    "liveBlog": {
+      "contentType": "atomInteractiveExperience",
+      "title": "Azerbaijan 2025, Practice 1",
+      "host": "cdn.monterosa.cloud",
+      "projectId": "222568ff-a8d4-4e3a-b9e2-63e185e2d964",
+      "eventId": "14f8cd53-0780-410e-bf68-78e3bc9f265e",
+      "eventUrl": "https://interactioncloud.formula1.com/?h=cdn.monterosa.cloud&p=222568ff-a8d4-4e3a-b9e2-63e185e2d964&e=14f8cd53-0780-410e-bf68-78e3bc9f265e"
+    },
+    "seasonState": "DURING-SEASON",
+    "raceListingOverride": 2025,
+    "driverAndTeamListingOverride": 2025,
+    "hideEventTracker": false,
+    "timetables": [
+      {
+        "session": "p1",
+        "shortName": "FP1",
+        "description": "Practice 1",
+        "startTime": "2025-09-19T12:30:00",
+        "endTime": "2025-09-19T13:30:00",
+        "gmtOffset": "+04:00",
+        "state": "upcoming",
+        "sessionType": "Practice",
+        "sessionNumber": 1,
+        "meetingSessionKey": 9897,
+        "timezone": "Asia/Baku"
+      },
+      {
+        "session": "p2",
+        "shortName": "FP2",
+        "description": "Practice 2",
+        "startTime": "2025-09-19T16:00:00",
+        "endTime": "2025-09-19T17:00:00",
+        "gmtOffset": "+04:00",
+        "state": "upcoming",
+        "sessionType": "Practice",
+        "sessionNumber": 2,
+        "meetingSessionKey": 9898,
+        "timezone": "Asia/Baku"
+      },
+      {
+        "session": "p3",
+        "shortName": "FP3",
+        "description": "Practice 3",
+        "startTime": "2025-09-20T12:30:00",
+        "endTime": "2025-09-20T13:30:00",
+        "gmtOffset": "+04:00",
+        "state": "upcoming",
+        "sessionType": "Practice",
+        "sessionNumber": 3,
+        "meetingSessionKey": 9899,
+        "timezone": "Asia/Baku"
+      },
+      {
+        "session": "q",
+        "shortName": "Qualifying",
+        "description": "Qualifying",
+        "startTime": "2025-09-20T16:00:00",
+        "endTime": "2025-09-20T17:00:00",
+        "gmtOffset": "+04:00",
+        "state": "upcoming",
+        "sessionType": "Qualifying",
+        "sessionNumber": 0,
+        "meetingSessionKey": 9900,
+        "timezone": "Asia/Baku"
+      },
+      {
+        "session": "r",
+        "shortName": "Race",
+        "description": "Race",
+        "startTime": "2025-09-21T15:00:00",
+        "endTime": "2025-09-21T17:00:00",
+        "gmtOffset": "+04:00",
+        "state": "upcoming",
+        "sessionType": "Race",
+        "sessionNumber": 0,
+        "meetingSessionKey": 9904,
+        "timezone": "Asia/Baku"
+      }
+    ],
+    "replayBaseUrl": "https://livetiming.formula1.com/static/",
+    "seasonContextUIState": 5
+  },
+  "race": {
+    "meetingName": "Azerbaijan Grand Prix",
+    "meetingLocation": "Baku",
+    "meetingCountryName": "Azerbaijan",
+    "meetingCountryCode": "AZE",
+    "meetingOfficialName": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025",
+    "meetingTimezone": "Asia/Baku",
+    "url": "/en/racing/2025/azerbaijan",
+    "isTestEvent": false,
+    "roundText": "R17",
+    "meetingStartDate": "2025-09-19T08:30:00.000Z",
+    "meetingEndDate": "2025-09-21T13:00:00.000Z"
+  },
+  "raceResults": [],
+  "seasonYearImage": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/year%20icon/2025.png",
+  "circuitImage": {
+    "public_id": "common/f1/2025/track/2025trackbakublackoutline"
+  }
+}
